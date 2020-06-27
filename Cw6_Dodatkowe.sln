@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cw6_Dodatkowe", "Cw6_Dodatkowe\Cw6_Dodatkowe.csproj", "{FF18B5AC-D56C-46D6-8056-D8D471EEFF2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF18B5AC-D56C-46D6-8056-D8D471EEFF2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF18B5AC-D56C-46D6-8056-D8D471EEFF2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF18B5AC-D56C-46D6-8056-D8D471EEFF2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF18B5AC-D56C-46D6-8056-D8D471EEFF2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
